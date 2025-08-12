@@ -33,5 +33,5 @@ Este projeto foi construído utilizando:
   O projeto foi publicado utilizado a plataforma **Vercel**, que oferece o deploy rápido e integração direta com o GitHub.
   
 ## Acesse o site online:
-
+https://lucastosp.vercel.app
 
